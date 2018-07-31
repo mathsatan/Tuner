@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tuner</string>
+    <string name="frequency_init_label">Frequency: ? Hz</string>
+    <string name="frequency_label">Frequency: %s Hz</string>
+    <string name="concurrent_error">Error has occurred: %s</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+</resources>

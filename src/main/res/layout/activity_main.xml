@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
-              xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="@dimen/textFieldSize" android:textStyle="1" android:id="@id/tvInfo" android:layout_height="247dp" android:text="" />
-    <Button android:textSize="@dimen/buttonTextSize" android:ellipsize="1" android:layout_gravity="1" android:id="@id/btnStart" android:layout_width="154dp" android:text="@string/start" android:onClick="onclick" />
-    <Button android:textSize="@dimen/buttonTextSize" android:ellipsize="1" android:layout_gravity="11" android:id="@id/btnStop" android:layout_width="153dp" android:text="@string/stop" android:onClick="onclick" />
-</LinearLayout>
